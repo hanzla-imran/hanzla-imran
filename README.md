@@ -80,13 +80,6 @@ I am an `Associate Software Engineer` <img src="https://media.giphy.com/media/WU
 
 ## 📊 My Profile Statistics
 <p align="center">
-<a href="https://github.com/hanzla-imran"><img alt="Hanzla's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hanzla-imran&langs_count=8&layout=compact&border_color=7F3FBF"/
-</a>
-</p>
-
-<br/>
-  
-<p align="center">
   <a href="https://github.com/hanzla-imran">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanzla-imran" alt="Hanzla's GitHub Contribution"/>
   </a>
